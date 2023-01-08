@@ -10,4 +10,5 @@ Using SQL to help Bobby analyze employee information regarding retirement. The c
   3. Written report on the employee database analysis - READ ME
  
   
+  #### Results
   Successfully using SQL we were able to create a table to reflect both sets of data requested by the manager. A table has been created with each employees who is reaching the age retirement including, their titles, employee numbers, birth date, and hire date. Using the information collected from the table of retiring employees, a table was created to reflect those eligible for the retirement program. This table includes employee first and last name, employee number, title, hire date. To filter those eligible, the data was filter to reflect those with a date of birth between January 1 1965 and December 31 1965. 
